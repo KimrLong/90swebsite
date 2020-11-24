@@ -22,7 +22,7 @@ h1 {
     float: left;
 }
 
-}
+
 button {
     background-color: #f70101;
     border: none;
@@ -65,3 +65,4 @@ h3 {
     text-align: center;
     color: green;
     position: relative;
+}
