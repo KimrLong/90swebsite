@@ -1,0 +1,67 @@
+body{
+    background-color: black;
+}
+#bordering{
+    border: 50px solid transparent;
+    padding: 20px;
+    border-image: url(https://pin.it/7Luhabe) 30 round;
+}
+
+h1 {
+    background-color: forestgreen; color: red; text-align: center;
+    text-size-adjust: 400px; font-family: cursive; font-style: Bold;
+
+}
+
+.box {
+    width: 400px; height: 500px;
+}
+
+.red {
+    background-image: url(https://cdn.shopify.com/s/files/1/0284/7804/6292/products/BS416_1_1800x1800.jpg?v=1593179369);
+    float: left;
+}
+
+}
+button {
+    background-color: #f70101;
+    border: none;
+    color: rgb(15, 211, 48);
+    padding: 20px 34px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.green {
+    background-image: url(https://i.etsystatic.com/20532909/r/il/ee57e7/2669072011/il_794xN.2669072011_g1gk.jpg);
+    float: right;
+
+    
+
+}
+
+    button {
+        background-color: red;
+        border: none;
+        color: rgb(15, 211, 48);
+        padding: 20px 34px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 20px;
+        margin: 4px 2px;
+        cursor: pointer; }
+
+
+h2 {
+    background-color: forestgreen; color: red; text-align: center;
+    text-size-adjust: 400px; font-family: cursive; font-style: Bold;
+}
+h3 {
+    text-align: center;
+    color: green;
+    position: relative;
